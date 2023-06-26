@@ -1,3 +1,2 @@
 # learn-shall-scripting
-
-Hi 
+#dummy msg
